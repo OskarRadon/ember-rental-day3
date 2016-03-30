@@ -1,0 +1,34 @@
+{ "rentals": [{
+    "owner": "Veruca Salt",
+    "city": "San Francisco",
+    "type": "Estate",
+    "bedrooms": 15,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Crane_estate_(5).jpg"
+  }, {
+    "owner": "Mike Teavee",
+    "city": "Seattle",
+    "type": "Condo",
+    "bedrooms": 1,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Alfonso_13_Highrise_Tegucigalpa.jpg"
+  }, {
+    "owner": "Violet Beauregarde",
+    "city": "Portland",
+    "type": "Apartment",
+    "bedrooms": 3,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Wheeldon_Apartment_Building_-_Portland_Oregon.jpg"
+  }],
+
+"announcements": [{
+    "sales": "Mike Teavee's half off",
+    "weather": "Cloudy Cold",
+    "news": "Things are happening"
+  }, {
+    "sales": "Red Cube rental for $100 a night",
+    "weather": "Frosty",
+    "news": "People landing on the moon"
+  }, {
+    "sales": "Violet's must rent now",
+    "weather": "Sunny day",
+    "news": "Flowers be bloomin"
+  }]
+}
