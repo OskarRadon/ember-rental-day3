@@ -2,3 +2,5 @@
 {{#each city.rentals as |rental|}}
   <li>{{rental.owner}}</li>
 {{/each}}
+
+<button {{action 'delete' city}}>Delete</button>
